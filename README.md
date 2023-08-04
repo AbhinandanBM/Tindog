@@ -12,11 +12,6 @@ A home page which provides details of the application to the end user like the d
 
 
 ![Title-page](https://user-images.githubusercontent.com/72445333/192082869-d8888b52-d789-4ac5-b3ec-ec2234ad39e9.jpg)
-![features-page](https://user-images.githubusercontent.com/72445333/192082873-eff001b9-a5be-40e4-b5d3-cee34faedca6.jpg)
-![Testinomial-page](https://user-images.githubusercontent.com/72445333/192082884-b3f3ac6e-4f1c-44f7-8ae8-1fb98e2ac1dc.jpg)
-![plan-page](https://user-images.githubusercontent.com/72445333/192082894-764c026b-aa7c-4353-888a-924c87530fc1.jpg)
-![footer-page](https://user-images.githubusercontent.com/72445333/192082902-657f53ad-1cfa-4d55-9919-27a6ca6c2db0.jpg)
-
 
 ## 🛠 Technology Used
 HTML5, CSS3, Bootstrap
